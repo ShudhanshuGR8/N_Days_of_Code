@@ -1,0 +1,18 @@
+Numpy
+
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays
+
+Advantages of Numpy over Lists:
+1. Numpy objects or elements have a fixed type.
+
+2. Faster to read fewer bytes of memory.
+
+3. No type checking when iterating through objects, unlike lists.
+
+4. Numpy array uses contiguous memory, unlike lists that have scattered data around in the memory. the list contains scattered pointers to the actual locations scattered in the memory so bounce around the memory for quite a time.
+A NumPy array just requires the starting point of the memory and the size of the array.
+Also, CPU has SIMD vector processing - which stands for Single instruction multiple data.
+SIMD helps in performing computation on all the values simultaneously, instead of just performing on one value.
+Effective Cache Utilization as the memory in NumPy is Contiguous, unlike lists in which due to scattered memory we have to perform lookups of the scattered parts of the memory.
+
+5. NumPy offers matrix operations that are not possible in List.

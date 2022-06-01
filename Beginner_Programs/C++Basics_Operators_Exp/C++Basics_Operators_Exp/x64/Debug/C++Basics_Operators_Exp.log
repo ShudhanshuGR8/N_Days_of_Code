@@ -1,0 +1,6 @@
+﻿  C++Basics_Operators_Exp.cpp
+E:\C++_Programming\Beginner_Programs\C++Basics_Operators_Exp\C++Basics_Operators_Exp\C++Basics_Operators_Exp.cpp(12,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++_Programming\Beginner_Programs\C++Basics_Operators_Exp\C++Basics_Operators_Exp\C++Basics_Operators_Exp.cpp(12,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++_Programming\Beginner_Programs\C++Basics_Operators_Exp\C++Basics_Operators_Exp\C++Basics_Operators_Exp.cpp(14,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_Programming\Beginner_Programs\C++Basics_Operators_Exp\C++Basics_Operators_Exp\C++Basics_Operators_Exp.cpp(17,12): warning C4309: 'initializing': truncation of constant value
+  C++Basics_Operators_Exp.vcxproj -> E:\C++_Programming\Beginner_Programs\C++Basics_Operators_Exp\x64\Debug\C++Basics_Operators_Exp.exe

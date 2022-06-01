@@ -1,0 +1,5 @@
+﻿  C++Basics_Demo_Expressions.cpp
+E:\C++_Programming\Beginner_Programs\C++Basics_Demo_Expressions\C++Basics_Demo_Expressions\C++Basics_Demo_Expressions.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\C++_Programming\Beginner_Programs\C++Basics_Demo_Expressions\C++Basics_Demo_Expressions\C++Basics_Demo_Expressions.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\C++_Programming\Beginner_Programs\C++Basics_Demo_Expressions\C++Basics_Demo_Expressions\C++Basics_Demo_Expressions.cpp(23,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  C++Basics_Demo_Expressions.vcxproj -> E:\C++_Programming\Beginner_Programs\C++Basics_Demo_Expressions\x64\Debug\C++Basics_Demo_Expressions.exe
