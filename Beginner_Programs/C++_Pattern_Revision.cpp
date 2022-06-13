@@ -595,35 +595,37 @@ int main(){
 // }
 
 
-//Pattern Dabangg ->
-int i = 1;
-int n;
-cin >> n;
-//Printing the 1st Triangle
-while(i<=n){
-    int j = 1;
-    while(j<=n-i+1){
-        cout << j << " ";
-        j++;
-    }
-    //Printing the 2nd Triangle
-    int k = 1;
-    while(k<=(i*2)-2){
-            cout << "* ";
-            k++;
-    }
+//Pattern Dabangg ->1 2 3 4 5 5 4 3 2 1 
+                //  1 2 3 4 * * 4 3 2 1
+                //  1 2 3 * * * * 3 2 1
+                //  1 2 * * * * * * 2 1
+                //  1 * * * * * * * * 1
+// int i = 1;
+// int n;
+// cin >> n;
+// //Printing the 1st Triangle
+// while(i<=n){
+//     int j = 1;
+//     while(j<=n-i+1){
+//         cout << j << " ";
+//         j++;
+//     }
+//     //Printing the 2nd Triangle
+//     int k = 1;
+//     while(k<=(i*2)-2){
+//             cout << "* ";
+//             k++;
+//     }
 
-    //Printing the 3rd Triangle
-    int l = n - i + 1;
-    while(l){
-        cout << l << " ";
-        l--;
-    }
-i++;
-cout << endl;
+//     //Printing the 3rd Triangle
+//     int l = n - i + 1;
+//     while(l){
+//         cout << l << " ";
+//         l--;
+//     }
+// i++;
+// cout << endl;
 
-}
-
-
+// }
 
 }
